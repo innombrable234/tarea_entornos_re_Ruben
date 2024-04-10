@@ -1,6 +1,7 @@
 	Capitulo 0: Introducción a entornos de desarrollo.
 Contenido.txt
 	Capitulo 1: Repositorios de Código
+        empezando teoria del codigo
 	Capítulo 2: UML
         Capitulo 3: ayuda sobre gestion de ramas
 
